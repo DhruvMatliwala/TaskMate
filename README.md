@@ -8,8 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-43E97B)](https://flutter.dev)
 
 > **TaskMate** is a real-time, hyper-local gig economy mobile platform that connects busy community members who need urgent, real-world errands fulfilled (such as parcel delivery, grocery pickup, line standing, or technical assistance) with nearby verified peers and student freelancers looking to monetize their spare time.
-
-Developed as a capstone project for **Mobile Application Development (3170726)** in the **Computer Engineering Department** at **C. K. Pithawala College of Engineering & Technology (CKPCET)**.
+Designed and developed by **[Dhruv Matliwala](https://github.com/DhruvMatliwala)**.
 
 ---
 
@@ -183,21 +182,13 @@ flutter build apk --release
 
 ---
 
-## 👥 Contributors (Group 08)
+## 👤 Author
 
-This project was developed by the following students of the **Computer Engineering Department**, **C. K. Pithawala College of Engineering & Technology (CKPCET)**:
-
-| No. | Student Name | Enrollment Number |
-| :---: | :--- | :---: |\n| **1.** | **Matliwala Dhruvkumar Yogeshkumar** | `220090107076` |
-| **2.** | **Afinwala Hitesh Piyushbhai** | `230090107002` |
-| **3.** | **Kukadiya Divyesh Hareshbhai** | `230090107070` |
-| **4.** | **Parekh Khantkumar Nirbhaykumar** | `230090107112` |
-
-* **Faculty Guide & Subject Coordinator:** Prof. Hemil Patel
-* **Head of Department:** Dr. Saurabh Tandel
-* **Course:** Mobile Application Development (3170726) | B.E. IV, Semester VII
+Developed with ❤️ by **Dhruv Matliwala**
+* GitHub: [@DhruvMatliwala](https://github.com/DhruvMatliwala)
+* Repository: [TaskMate](https://github.com/DhruvMatliwala/TaskMate)
 
 ---
 
 ## 📄 License
-This project is developed for academic evaluation purposes under the Gujarat Technological University (GTU) curriculum.
+This project is open-source and available under the [MIT License](LICENSE).
