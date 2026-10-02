@@ -15,10 +15,10 @@ Designed and developed by **[Dhruv Matliwala](https://github.com/DhruvMatliwala)
 ## 📱 App Showcase & Key Interfaces
 
 <p align="center">
-  <img src="Cipat/mockups/mockup_map.png" width="22%" alt="Live Map Radar" />
-  <img src="Cipat/mockups/mockup_bidding.png" width="22%" alt="Task Bidding" />
-  <img src="Cipat/mockups/mockup_nav.png" width="22%" alt="GPS Navigation" />
-  <img src="Cipat/mockups/mockup_chat.png" width="22%" alt="Real-time Chat" />
+  <img src="docs/screenshots/mockup_map.png" width="22%" alt="Live Map Radar" />
+  <img src="docs/screenshots/mockup_bidding.png" width="22%" alt="Task Bidding" />
+  <img src="docs/screenshots/mockup_nav.png" width="22%" alt="GPS Navigation" />
+  <img src="docs/screenshots/mockup_chat.png" width="22%" alt="Real-time Chat" />
 </p>
 
 ---
