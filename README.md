@@ -147,7 +147,7 @@ $$\text{Suggested Reward} = \Big(\text{Base Fare} + (\text{Distance In Km} \time
 ### Prerequisites
 * [Flutter SDK](https://flutter.dev/docs/get-started/install) (version `>= 3.0.0`)
 * [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/) with Flutter extension
-* Android Device / Emulator running API Level 26+
+* Android Device / Emulator running **API Level 26+ (Android 8.0 Oreo or higher)** *(Minimum supported: Android 7.0 / API Level 24)*
 
 ### 1. Clone the Repository
 ```bash
